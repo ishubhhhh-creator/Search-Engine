@@ -1,0 +1,2 @@
+Data structures and algorithms form the foundation of computer science.
+A strong understanding of algorithms helps in solving complex problems efficiently.

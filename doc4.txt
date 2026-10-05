@@ -1,0 +1,2 @@
+A search engine uses an inverted index to perform fast data retrieval.
+Without an inverted index, the search engine would have to scan every file.

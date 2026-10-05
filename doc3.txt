@@ -1,0 +1,2 @@
+Python is widely used in artificial intelligence, but C++ is preferred for core data structures.
+Python offers many libraries, whereas C++ offers unmatched execution speed.

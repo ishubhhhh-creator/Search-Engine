@@ -1,0 +1,2 @@
+Advanced machine learning models and deep learning require massive computational power.
+Deep learning algorithms simulate the human brain using neural networks.
